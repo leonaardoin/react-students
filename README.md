@@ -2,8 +2,13 @@ Code the <App>App component to display a <Student>component for each student obj
 Code the <Student>component so that it:
 
 Renders the student's name& bioproperties
-Renders a <Score>component for each score object in the student's scoresproperty.
-Code the <Score>component so that it renders the score object's date& scoreproperties.
+  <li>Renders a <Score>component for each score object in the student's scoresproperty.</li>
+  <li>Code the <Score>component so that it renders the score object's date& scoreproperties.</li>
+
+<br>
+Built With
+ReactJS
+Flexbox
   
-  See live demo 
-  https://0kdvp2.csb.app/
+<h3>Live preview<h3>
+https://0kdvp2.csb.app/
