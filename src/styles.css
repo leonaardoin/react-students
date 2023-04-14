@@ -1,0 +1,42 @@
+.root {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  text-align: center;
+  color: green;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.student {
+  margin: 20px;
+  border: 2px solid green;
+  background-color: lightgreen;
+}
+.header {
+  padding: 5px;
+  background: rgb(248, 248, 103);
+  border-bottom: 2px solid green;
+  color: green;
+}
+.bio {
+  margin: 10px;
+  font-size: 20px;
+}
+.indent {
+  margin-left: 5%;
+}
+
+table {
+  margin: auto;
+  margin-bottom: 10px;
+  text-align: center;
+  border-collapse: collapse;
+  border: none;
+}
+td,
+th {
+  width: 50%;
+  padding: 3px;
+}
