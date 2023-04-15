@@ -10,5 +10,3 @@ Built With
 ReactJS
 Flexbox
   
-<h3>Live preview<h3>
-https://0kdvp2.csb.app/
