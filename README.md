@@ -7,6 +7,7 @@ Renders the student's name& bioproperties
 
 <br>
 Built With
-ReactJS
-Flexbox
+<li>ReactJS</li>
+<li>Flexbox</li>
+
   
